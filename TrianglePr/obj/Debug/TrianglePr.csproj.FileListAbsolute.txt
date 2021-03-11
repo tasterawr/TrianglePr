@@ -1,0 +1,7 @@
+C:\Users\LOKTEVS\source\repos\TrianglePr\TrianglePr\bin\Debug\TrianglePr.exe.config
+C:\Users\LOKTEVS\source\repos\TrianglePr\TrianglePr\bin\Debug\TrianglePr.exe
+C:\Users\LOKTEVS\source\repos\TrianglePr\TrianglePr\bin\Debug\TrianglePr.pdb
+C:\Users\LOKTEVS\source\repos\TrianglePr\TrianglePr\obj\Debug\TrianglePr.csprojAssemblyReference.cache
+C:\Users\LOKTEVS\source\repos\TrianglePr\TrianglePr\obj\Debug\TrianglePr.csproj.CoreCompileInputs.cache
+C:\Users\LOKTEVS\source\repos\TrianglePr\TrianglePr\obj\Debug\TrianglePr.exe
+C:\Users\LOKTEVS\source\repos\TrianglePr\TrianglePr\obj\Debug\TrianglePr.pdb
